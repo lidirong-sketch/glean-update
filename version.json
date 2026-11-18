@@ -1,9 +1,13 @@
 {
-  "versionCode": 27,
+  "versionCode": 28,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/lidirong-sketch/glean-update/releases/download/v1.0.0/glean_v1.0.0.apk",
+  "apkUrl": "https://glean-update-hz.oss-cn-hangzhou.aliyuncs.com/apk/glean_v1.0.0.bin",
+  "apkUrls": [
+    "https://glean-update-hz.oss-cn-hangzhou.aliyuncs.com/apk/glean_v1.0.0.bin",
+    "https://github.com/lidirong-sketch/glean-update/releases/download/v1.0.0/glean_v1.0.0.apk"
+  ],
   "apkSize": 63882451,
-  "notes": "拾屏 Glean v1.0.0",
+  "notes": "拾屏 Glean v1.0.0\n更新通道加固：国内直连加速",
   "force": false,
   "publishedAt": "2026-11-18"
 }
