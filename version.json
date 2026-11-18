@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/lidirong-sketch/glean-update/releases/download/v2.0.1/glean_v2.0.1.apk",
-  "apkSize": 63874259,
-  "notes": "拾屏 Glean v2.0.1",
+  "versionCode": 26,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/lidirong-sketch/glean-update/releases/download/v1.0.0/glean_v1.0.0.apk",
+  "apkSize": 63882451,
+  "notes": "拾屏 Glean v1.0.0",
   "force": false,
   "publishedAt": "2026-11-18"
 }
