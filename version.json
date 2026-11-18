@@ -1,9 +1,9 @@
 {
   "versionCode": 20,
   "versionName": "2.0.0",
-  "apkUrl": "",
-  "apkSize": 0,
-  "notes": "v2.0 首个版本：两档速度、7 天试用、砖块儿授权、自签内部授权、多主题界面",
+  "apkUrl": "https://github.com/lidirong-sketch/glean-update/releases/download/v2.0.0/glean_v2.0.0.apk",
+  "apkSize": 63874259,
+  "notes": "v2.0 正式版：普通/极速两档速度、7 天全功能试用、砖块儿授权、内部自签授权、多主题悬浮窗、支持应用内自动更新",
   "force": false,
   "publishedAt": "2026-11-18"
 }
