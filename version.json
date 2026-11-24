@@ -7,7 +7,7 @@
     "https://github.com/lidirong-sketch/glean-update/releases/download/v1.0.0/glean_v1.0.0.apk"
   ],
   "apkSize": 63882451,
-  "notes": "拾屏 Glean v1.0.0\n更新通道加固：国内直连加速",
+  "notes": "本次更新：修复若干问题，优化更新成功率。",
   "force": false,
   "publishedAt": "2026-11-18"
 }
